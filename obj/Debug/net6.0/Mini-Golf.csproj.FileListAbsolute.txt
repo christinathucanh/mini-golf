@@ -1,0 +1,54 @@
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Content/ball.xnb
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.exe
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.deps.json
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.runtimeconfig.json
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.pdb
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/MonoGame.Framework.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.csproj.AssemblyReference.cache
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.AssemblyInfoInputs.cache
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.AssemblyInfo.cs
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.csproj.CoreCompileInputs.cache
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.csproj.Up2Date
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/refint/Mini-Golf.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.pdb
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.genruntimeconfig.cache
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/obj/Debug/net6.0/ref/Mini-Golf.dll
+C:/Users/almas/Downloads/Grinnell/Spring 2024/CSC395/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Content/course.xnb
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Content/ball.xnb
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Content/course.xnb
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.deps.json
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.runtimeconfig.json
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.dll
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/Mini-Golf.pdb
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/MonoGame.Framework.dll
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.csproj.AssemblyReference.cache
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.AssemblyInfoInputs.cache
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.AssemblyInfo.cs
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.csproj.CoreCompileInputs.cache
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.csproj.CopyComplete
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.dll
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/refint/Mini-Golf.dll
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.pdb
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/Mini-Golf.genruntimeconfig.cache
+/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/obj/Debug/net6.0/ref/Mini-Golf.dll

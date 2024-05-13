@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/Content/ball.png","/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",790,2585,0.438499
+"/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/Content/course.png","/Users/thucanhchristinavu/Downloads/Mini-Golf/Mini-Golf/Content/bin/DesktopGL/Content/course.xnb","TextureProcessor","Texture2DContent",8709,3840085,0.149086
